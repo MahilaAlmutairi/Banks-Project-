@@ -1,4 +1,4 @@
-# ETL Pfroject
+# ETL Project
 In this project, we aim to:
 
 Extract real-world data from a public website using Webscraping and Requests API in Python.
